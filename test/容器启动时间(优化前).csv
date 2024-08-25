@@ -1,0 +1,303 @@
+  Total     Received  Xferd  Average Speed   Time    Time     Time  Current
+"                             Dload   Upload  Total   Spent    Left  Speed
+"
+Iteration 1
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09190416 seconds""}"
+Iteration 2
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09083915 seconds""}"
+Iteration 3
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09033561 seconds""}"
+Iteration 4
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08572531 seconds""}"
+Iteration 5
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.10596633 seconds""}"
+Iteration 6
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08745432 seconds""}"
+Iteration 7
+100    93  100    93    0     0      7      0  0:00:13  0:00:11  0:00:02    26
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08511591 seconds""}"
+Iteration 8
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09556055 seconds""}"
+Iteration 9
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09205818 seconds""}"
+Iteration 10
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08902502 seconds""}"
+Iteration 11
+100    93  100    93    0     0      7      0  0:00:13  0:00:11  0:00:02    24
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09177971 seconds""}"
+Iteration 12
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08841705 seconds""}"
+Iteration 13
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    29
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09140587 seconds""}"
+Iteration 14
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08449531 seconds""}"
+Iteration 15
+100    93  100    93    0     0      7      0  0:00:13  0:00:12  0:00:01    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08579230 seconds""}"
+Iteration 16
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    19
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09395289 seconds""}"
+Iteration 17
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08793664 seconds""}"
+Iteration 18
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09080911 seconds""}"
+Iteration 19
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08178186 seconds""}"
+Iteration 20
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    28
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08474588 seconds""}"
+Iteration 21
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08314252 seconds""}"
+Iteration 22
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    27
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09879351 seconds""}"
+Iteration 23
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    25
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08871651 seconds""}"
+Iteration 24
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08644891 seconds""}"
+Iteration 25
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08599257 seconds""}"
+Iteration 26
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    27
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.11677074 seconds""}"
+Iteration 27
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    24
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08360791 seconds""}"
+Iteration 28
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    29
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08529425 seconds""}"
+Iteration 29
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08235288 seconds""}"
+Iteration 30
+100    93  100    93    0     0      7      0  0:00:13  0:00:12  0:00:01    24
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09015679 seconds""}"
+Iteration 31
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    28
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08567238 seconds""}"
+Iteration 32
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    29
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.16279435 seconds""}"
+Iteration 33
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.36170053 seconds""}"
+Iteration 34
+100    93  100    93    0     0      7      0  0:00:13  0:00:12  0:00:01    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.11670637 seconds""}"
+Iteration 35
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    28
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08816314 seconds""}"
+Iteration 36
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    26
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09841156 seconds""}"
+Iteration 37
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.15886855 seconds""}"
+Iteration 38
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09441543 seconds""}"
+Iteration 39
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09039235 seconds""}"
+Iteration 40
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    25
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08547759 seconds""}"
+Iteration 41
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    19
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08400202 seconds""}"
+Iteration 42
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08918548 seconds""}"
+Iteration 43
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08886981 seconds""}"
+Iteration 44
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08973145 seconds""}"
+Iteration 45
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    24
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08446550 seconds""}"
+Iteration 46
+100    93  100    93    0     0      8      0  0:00:11  0:00:11 --:--:--    24
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08904362 seconds""}"
+Iteration 47
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08783865 seconds""}"
+Iteration 48
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    27
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08711839 seconds""}"
+Iteration 49
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08866239 seconds""}"
+Iteration 50
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    29
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08324027 seconds""}"
+Iteration 51
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08595729 seconds""}"
+Iteration 52
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08717108 seconds""}"
+Iteration 53
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08789706 seconds""}"
+Iteration 54
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.11268878 seconds""}"
+Iteration 55
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08716178 seconds""}"
+Iteration 56
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09063625 seconds""}"
+Iteration 57
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.10250139 seconds""}"
+Iteration 58
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09005404 seconds""}"
+Iteration 59
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08831501 seconds""}"
+Iteration 60
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08511019 seconds""}"
+Iteration 61
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.17116833 seconds""}"
+Iteration 62
+100    93  100    93    0     0      7      0  0:00:13  0:00:11  0:00:02    26
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08594203 seconds""}"
+Iteration 63
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08984804 seconds""}"
+Iteration 64
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    19
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08839750 seconds""}"
+Iteration 65
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09680390 seconds""}"
+Iteration 66
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08929324 seconds""}"
+Iteration 67
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    29
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09261823 seconds""}"
+Iteration 68
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    25
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09076858 seconds""}"
+Iteration 69
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    19
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08912015 seconds""}"
+Iteration 70
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.13305998 seconds""}"
+Iteration 71
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    26
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.10122061 seconds""}"
+Iteration 72
+100    93  100    93    0     0     10      0  0:00:09  0:00:08  0:00:01    24
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.22666550 seconds""}"
+Iteration 73
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08144546 seconds""}"
+Iteration 74
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.10349512 seconds""}"
+Iteration 75
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08249903 seconds""}"
+Iteration 76
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    24
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08868575 seconds""}"
+Iteration 77
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08218050 seconds""}"
+Iteration 78
+100    93  100    93    0     0      7      0  0:00:13  0:00:11  0:00:02    24
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08188725 seconds""}"
+Iteration 79
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    24
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08481431 seconds""}"
+Iteration 80
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08100653 seconds""}"
+Iteration 81
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.37151670 seconds""}"
+Iteration 82
+100    93  100    93    0     0      8      0  0:00:11  0:00:11 --:--:--    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08217812 seconds""}"
+Iteration 83
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    28
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.11515164 seconds""}"
+Iteration 84
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08156252 seconds""}"
+Iteration 85
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08769107 seconds""}"
+Iteration 86
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    27
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08334851 seconds""}"
+Iteration 87
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09165668 seconds""}"
+Iteration 88
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09296060 seconds""}"
+Iteration 89
+100    93  100    93    0     0      9      0  0:00:10  0:00:10 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08828020 seconds""}"
+Iteration 90
+100    93  100    93    0     0      7      0  0:00:13  0:00:12  0:00:01    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09134293 seconds""}"
+Iteration 91
+100    93  100    93    0     0     10      0  0:00:09  0:00:09 --:--:--    23
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08271694 seconds""}"
+Iteration 92
+100    93  100    93    0     0     10      0  0:00:09  0:00:08  0:00:01    26
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08200932 seconds""}"
+Iteration 93
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    26
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08369994 seconds""}"
+Iteration 94
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    26
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08800292 seconds""}"
+Iteration 95
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    20
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08265471 seconds""}"
+Iteration 96
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    21
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.09127307 seconds""}"
+Iteration 97
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    24
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.12143826 seconds""}"
+Iteration 98
+100    93  100    93    0     0      8      0  0:00:11  0:00:10  0:00:01    22
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.39387178 seconds""}"
+Iteration 99
+100    93  100    93    0     0      7      0  0:00:13  0:00:11  0:00:02    25
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08332539 seconds""}"
+Iteration 100
+100    93  100    93    0     0      9      0  0:00:10  0:00:09  0:00:01    26
+"{""message"":""Pod and Service created successfully."",""pod_creation_time"":""0.08800292 seconds""}"
