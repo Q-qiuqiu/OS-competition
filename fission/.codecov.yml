@@ -1,0 +1,13 @@
+ignore:
+  - "charts"
+  - "test/"
+  - "tools"
+  - "pkg/generated" # generated code
+  - "pkg/apis/*/*/zz_generated*" # generated code
+coverage:
+  status:
+    project:
+      default:
+        threshold: 2
+    # Disable patch coverage check since we focus on project coverage.
+    patch: off
